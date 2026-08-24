@@ -1,0 +1,70 @@
+site_name: Informática · 3.º y 4.º ESO
+site_description: Materiales de aula de Informática para 3.º y 4.º ESO
+site_url: https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Inicio: index.md
+  - 3.º ESO:
+      - Tu curso: 3eso/index.md
+      - B01 · Entorno digital:
+          - Portada: 3eso/b01/index.md
+          - Aprende: 3eso/b01/aprende.md
+          - Práctica: 3eso/b01/practica.md
+          - Entrega y evaluación: 3eso/b01/entrega.md
+  - 4.º ESO:
+      - Tu curso: 4eso/index.md
+      - B01 · Entorno digital:
+          - Portada: 4eso/b01/index.md
+          - Aprende: 4eso/b01/aprende.md
+          - Práctica: 4eso/b01/practica.md
+          - Entrega y evaluación: 4eso/b01/entrega.md
+

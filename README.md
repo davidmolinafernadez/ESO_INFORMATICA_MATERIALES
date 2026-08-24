@@ -2,6 +2,14 @@
 
 Proyecto docente práctico para 3.º y 4.º ESO, diseñado para dos horas semanales.
 
+## Web para el alumnado
+
+Los materiales se consultan como una web navegable, igual que en Sistemas Informáticos:
+
+**https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/**
+
+El alumnado solo necesita este enlace. Desde la portada puede elegir 3.º o 4.º ESO y acceder al bloque que se esté trabajando.
+
 Este repositorio publica exclusivamente materiales de las unidades. La documentación administrativa, los datos del alumnado y los registros privados del profesor se conservan fuera de GitHub.
 
 ## Recorrido anual
