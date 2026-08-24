@@ -5,6 +5,7 @@ Bienvenido al espacio de aula. Aquí encontrarás las explicaciones, retos, prá
 <div class="hero-actions" markdown>
 [Entrar en 3.º ESO](3eso/){ .md-button .md-button--primary }
 [Entrar en 4.º ESO](4eso/){ .md-button }
+[Consultar el plan](plan-curso.md){ .md-button }
 </div>
 
 !!! tip "Cómo utilizar esta web"
@@ -34,3 +35,4 @@ Más autonomía, decisiones justificadas y proyectos de mayor profundidad.](4eso
 
 La inteligencia artificial aparecerá de forma transversal: aprenderemos a utilizarla con criterio, verificar sus respuestas y proteger nuestros datos.
 
+[Consulta el protocolo de IA responsable](ia-responsable.md).

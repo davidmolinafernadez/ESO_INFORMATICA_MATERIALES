@@ -53,6 +53,8 @@ extra_css:
 
 nav:
   - Inicio: index.md
+  - Plan del curso: plan-curso.md
+  - IA responsable: ia-responsable.md
   - 3.º ESO:
       - Tu curso: 3eso/index.md
       - B01 · Entorno digital:
@@ -60,6 +62,36 @@ nav:
           - Aprende: 3eso/b01/aprende.md
           - Práctica: 3eso/b01/practica.md
           - Entrega y evaluación: 3eso/b01/entrega.md
+      - B02 · Hardware y sistemas:
+          - Portada: 3eso/b02/index.md
+          - Aprende: 3eso/b02/aprende.md
+          - Práctica: 3eso/b02/practica.md
+          - Entrega y evaluación: 3eso/b02/entrega.md
+      - B03 · Redes y ciberseguridad:
+          - Portada: 3eso/b03/index.md
+          - Aprende: 3eso/b03/aprende.md
+          - Práctica: 3eso/b03/practica.md
+          - Entrega y evaluación: 3eso/b03/entrega.md
+      - B04 · Ofimática y datos:
+          - Portada: 3eso/b04/index.md
+          - Aprende: 3eso/b04/aprende.md
+          - Práctica: 3eso/b04/practica.md
+          - Entrega y evaluación: 3eso/b04/entrega.md
+      - B05 · Creación multimedia:
+          - Portada: 3eso/b05/index.md
+          - Aprende: 3eso/b05/aprende.md
+          - Práctica: 3eso/b05/practica.md
+          - Entrega y evaluación: 3eso/b05/entrega.md
+      - B06 · Programación y web:
+          - Portada: 3eso/b06/index.md
+          - Aprende: 3eso/b06/aprende.md
+          - Práctica: 3eso/b06/practica.md
+          - Entrega y evaluación: 3eso/b06/entrega.md
+      - Proyecto final:
+          - Portada: 3eso/proyecto-final/index.md
+          - Aprende: 3eso/proyecto-final/aprende.md
+          - Práctica: 3eso/proyecto-final/practica.md
+          - Entrega y evaluación: 3eso/proyecto-final/entrega.md
   - 4.º ESO:
       - Tu curso: 4eso/index.md
       - B01 · Entorno digital:
@@ -67,4 +99,33 @@ nav:
           - Aprende: 4eso/b01/aprende.md
           - Práctica: 4eso/b01/practica.md
           - Entrega y evaluación: 4eso/b01/entrega.md
-
+      - B02 · Hardware y sistemas:
+          - Portada: 4eso/b02/index.md
+          - Aprende: 4eso/b02/aprende.md
+          - Práctica: 4eso/b02/practica.md
+          - Entrega y evaluación: 4eso/b02/entrega.md
+      - B03 · Redes y ciberseguridad:
+          - Portada: 4eso/b03/index.md
+          - Aprende: 4eso/b03/aprende.md
+          - Práctica: 4eso/b03/practica.md
+          - Entrega y evaluación: 4eso/b03/entrega.md
+      - B04 · Productividad y datos:
+          - Portada: 4eso/b04/index.md
+          - Aprende: 4eso/b04/aprende.md
+          - Práctica: 4eso/b04/practica.md
+          - Entrega y evaluación: 4eso/b04/entrega.md
+      - B05 · Producción multimedia:
+          - Portada: 4eso/b05/index.md
+          - Aprende: 4eso/b05/aprende.md
+          - Práctica: 4eso/b05/practica.md
+          - Entrega y evaluación: 4eso/b05/entrega.md
+      - B06 · Desarrollo web:
+          - Portada: 4eso/b06/index.md
+          - Aprende: 4eso/b06/aprende.md
+          - Práctica: 4eso/b06/practica.md
+          - Entrega y evaluación: 4eso/b06/entrega.md
+      - Proyecto final:
+          - Portada: 4eso/proyecto-final/index.md
+          - Aprende: 4eso/proyecto-final/aprende.md
+          - Práctica: 4eso/proyecto-final/practica.md
+          - Entrega y evaluación: 4eso/proyecto-final/entrega.md
