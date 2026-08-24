@@ -1,0 +1,23 @@
+# Material docente privado o administrativo
+Programacion_Didactica/
+Aules/
+Profesor/
+**/99_Profesor_Soluciones/
+Calificaciones/
+Diario_de_aula/
+Adaptaciones/
+Incidencias/
+Copias_de_seguridad/
+
+# Datos y entregas del alumnado
+Entregas_alumnado/
+Alumnado/
+**/datos_alumnado/
+**/evidencias_reales/
+
+# Archivos temporales y exportaciones
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
