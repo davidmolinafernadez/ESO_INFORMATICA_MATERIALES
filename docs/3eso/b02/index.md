@@ -1,31 +1,25 @@
-# Hardware y sistemas operativos
+# B02 · Hardware y sistemas operativos
 
-<span class="course-badge">3.º ESO</span>
+<span class="course-badge">4 semanas · 8 sesiones aproximadas</span>
 
 ## La misión
 
-Investigar cómo funciona un ordenador y preparar una guía de diagnóstico para problemas cotidianos.
+¿Cómo elegimos, cuidamos y diagnosticamos un ordenador?
 
 <div class="hero-actions" markdown>
-[Comenzar a aprender](aprende.md){ .md-button .md-button--primary }
-[Ver la práctica](practica.md){ .md-button }
+[Aprender](aprende.md){ .md-button .md-button--primary }
+[Actividades](actividades.md){ .md-button }
+[Proyecto](proyecto.md){ .md-button }
+[Entrega](entrega.md){ .md-button }
 </div>
 
-## Al terminar podrás…
+## Producto de la unidad
 
-- explicar los conceptos esenciales del bloque con vocabulario preciso;
-- aplicar un procedimiento ordenado para resolver el reto;
-- crear un producto digital funcional y comprensible;
-- comprobar seguridad, privacidad, accesibilidad y autoría;
-- revisar el resultado a partir de evidencias.
+**Guía visual de un equipo y árbol de diagnóstico.**
 
-## Ruta de trabajo
+## Ruta
 
 ```mermaid
 flowchart LR
-  A["Comprender"] --> B["Planificar"] --> C["Crear"] --> D["Probar"] --> E["Entregar"]
+ A[Comprender] --> B[Practicar] --> C[Crear] --> D[Comprobar] --> E[Entregar en Aules]
 ```
-
-!!! question "Pregunta guía"
-    ¿Qué revisarías, y en qué orden, si un ordenador dejara de funcionar correctamente?
-

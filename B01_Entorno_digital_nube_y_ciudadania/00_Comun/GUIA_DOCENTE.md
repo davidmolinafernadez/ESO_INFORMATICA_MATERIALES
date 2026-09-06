@@ -34,9 +34,8 @@ Un entorno personal de aprendizaje organizado y un portfolio digital inicial aco
 
 ## Diferenciación
 
-3.º utiliza una plantilla y una lista de pasos. 4.º diseña su propia estructura, justifica decisiones, resuelve un conflicto de versiones y prepara una guía de incorporación para otra persona.
+El alumnado dispone de una plantilla y una lista de pasos. La ampliación exige diseñar una estructura propia, justificar decisiones, resolver un conflicto de versiones y preparar una guía para otra persona.
 
 ## Material necesario
 
 Ordenador con navegador, cuenta educativa de almacenamiento en nube, procesador de textos y acceso a Aules. No se requieren instalaciones adicionales.
-

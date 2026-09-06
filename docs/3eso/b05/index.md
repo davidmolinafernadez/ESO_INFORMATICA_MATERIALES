@@ -1,31 +1,25 @@
-# Imagen, audio y vídeo
+# B05 · Creación multimedia
 
-<span class="course-badge">3.º ESO</span>
+<span class="course-badge">5 semanas · 10 sesiones aproximadas</span>
 
 ## La misión
 
-Crear una campaña multimedia breve que informe con claridad, respete las licencias y sea accesible.
+¿Cómo comunicamos una idea con imagen, sonido y vídeo respetando a las personas?
 
 <div class="hero-actions" markdown>
-[Comenzar a aprender](aprende.md){ .md-button .md-button--primary }
-[Ver la práctica](practica.md){ .md-button }
+[Aprender](aprende.md){ .md-button .md-button--primary }
+[Actividades](actividades.md){ .md-button }
+[Proyecto](proyecto.md){ .md-button }
+[Entrega](entrega.md){ .md-button }
 </div>
 
-## Al terminar podrás…
+## Producto de la unidad
 
-- explicar los conceptos esenciales del bloque con vocabulario preciso;
-- aplicar un procedimiento ordenado para resolver el reto;
-- crear un producto digital funcional y comprensible;
-- comprobar seguridad, privacidad, accesibilidad y autoría;
-- revisar el resultado a partir de evidencias.
+**Pieza audiovisual accesible de 60–90 segundos.**
 
-## Ruta de trabajo
+## Ruta
 
 ```mermaid
 flowchart LR
-  A["Comprender"] --> B["Planificar"] --> C["Crear"] --> D["Probar"] --> E["Entregar"]
+ A[Comprender] --> B[Practicar] --> C[Crear] --> D[Comprobar] --> E[Entregar en Aules]
 ```
-
-!!! question "Pregunta guía"
-    ¿Qué hace que un contenido digital sea atractivo sin dejar de ser comprensible y responsable?
-

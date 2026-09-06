@@ -1,25 +1,28 @@
-# Entrega y evaluación · 3.º ESO
+# Entrega y evaluación · Entorno digital, nube y ciudadanía
 
-## Antes de entregar
+## Calificación
 
-- [ ] Mis carpetas están ordenadas y tienen nombres claros.
-- [ ] El archivo sigue la convención indicada.
-- [ ] No aparece ningún dato personal innecesario.
-- [ ] El enlace tiene exactamente el permiso solicitado.
-- [ ] Las dos fuentes están identificadas y justificadas.
-- [ ] Mis cinco reglas son concretas y aplicables.
-- [ ] He abierto el enlace en una ventana privada para comprobarlo.
+| Evidencia | Peso |
+|---|---:|
+| Cuatro actividades | 60 % |
+| Proyecto de unidad | 40 % |
 
-## Cómo se evaluará
+No hay examen tradicional. La calificación procede del trabajo comprobable entregado en **Aules**.
 
-| Aspecto | Peso | Para lograr un buen resultado |
-|---|---:|---|
-| Organización y nombres | 25 % | Estructura completa, coherente y fácil de entender |
-| Portfolio | 25 % | Contenido claro, cuidado y completo |
-| Fuentes | 20 % | Dos fuentes identificadas y justificadas |
-| Seguridad y permisos | 20 % | Sin datos innecesarios y con el permiso correcto |
-| Presentación y entrega | 10 % | Archivo revisado, legible y entregado a tiempo |
+## Rúbrica del proyecto
 
-!!! tip "La última prueba"
-    Pide a un compañero que siga tu estructura sin explicaciones. Si encuentra todo a la primera, tu organización funciona.
+| Criterio | Excelente | Adecuado | En proceso | Inicial |
+|---|---|---|---|---|
+| Comprensión técnica | Explica y aplica con precisión | Aplica los conceptos principales | Presenta confusiones parciales | No demuestra las ideas esenciales |
+| Producto | Funciona, está completo y resulta útil | Cumple el encargo con fallos menores | Cumple solo una parte | No puede utilizarse |
+| Proceso y pruebas | Documenta decisiones, pruebas y mejoras | Aporta proceso y comprobaciones | Evidencias incompletas | No muestra proceso |
+| Responsabilidad | Protege datos, acredita fuentes y cuida accesibilidad | Cumple los requisitos básicos | Necesita correcciones | Presenta riesgos o no identifica recursos |
 
+## Lista de Aules
+
+- [ ] El nombre del archivo incluye curso, unidad, actividad, nombre y versión.
+- [ ] El archivo se abre y el enlace tiene el permiso solicitado.
+- [ ] No aparecen contraseñas ni datos personales innecesarios.
+- [ ] Las fuentes y recursos ajenos están acreditados.
+- [ ] La tarea figura como **enviada**, no como borrador.
+- [ ] Conservo una copia hasta recibir la calificación.

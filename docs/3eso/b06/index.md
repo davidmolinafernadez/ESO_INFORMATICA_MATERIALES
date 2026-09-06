@@ -1,31 +1,25 @@
-# Programación y web
+# B06 · Programación y web
 
-<span class="course-badge">3.º ESO</span>
+<span class="course-badge">6 semanas · 12 sesiones aproximadas</span>
 
 ## La misión
 
-Crear una web sencilla e interactiva aplicando pensamiento computacional, HTML, CSS y programación básica.
+¿Cómo transformamos un problema en instrucciones y en una publicación web comprobable?
 
 <div class="hero-actions" markdown>
-[Comenzar a aprender](aprende.md){ .md-button .md-button--primary }
-[Ver la práctica](practica.md){ .md-button }
+[Aprender](aprende.md){ .md-button .md-button--primary }
+[Actividades](actividades.md){ .md-button }
+[Proyecto](proyecto.md){ .md-button }
+[Entrega](entrega.md){ .md-button }
 </div>
 
-## Al terminar podrás…
+## Producto de la unidad
 
-- explicar los conceptos esenciales del bloque con vocabulario preciso;
-- aplicar un procedimiento ordenado para resolver el reto;
-- crear un producto digital funcional y comprensible;
-- comprobar seguridad, privacidad, accesibilidad y autoría;
-- revisar el resultado a partir de evidencias.
+**Programa por bloques y micrositio accesible.**
 
-## Ruta de trabajo
+## Ruta
 
 ```mermaid
 flowchart LR
-  A["Comprender"] --> B["Planificar"] --> C["Crear"] --> D["Probar"] --> E["Entregar"]
+ A[Comprender] --> B[Practicar] --> C[Crear] --> D[Comprobar] --> E[Entregar en Aules]
 ```
-
-!!! question "Pregunta guía"
-    ¿Cómo transformamos una idea en instrucciones que una máquina pueda ejecutar?
-

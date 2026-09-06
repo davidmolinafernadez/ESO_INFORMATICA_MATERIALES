@@ -1,30 +1,25 @@
-# B01 · Tu entorno digital
+# B01 · Entorno digital, nube y ciudadanía
+
+<span class="course-badge">4 semanas · 8 sesiones aproximadas</span>
 
 ## La misión
 
-Vas a construir una **mochila digital** ordenada, segura y preparada para todo el curso. Aprenderás a encontrar tus archivos, trabajar en la nube, compartir con el permiso correcto y comportarte responsablemente en Internet.
+¿Cómo organizamos y compartimos nuestro trabajo sin perder el control de los datos?
 
 <div class="hero-actions" markdown>
-[Comenzar a aprender](aprende.md){ .md-button .md-button--primary }
-[Ver la práctica](practica.md){ .md-button }
+[Aprender](aprende.md){ .md-button .md-button--primary }
+[Actividades](actividades.md){ .md-button }
+[Proyecto](proyecto.md){ .md-button }
+[Entrega](entrega.md){ .md-button }
 </div>
 
-## Al terminar podrás…
+## Producto de la unidad
 
-- organizar archivos y carpetas con nombres útiles;
-- distinguir almacenamiento local, en red y en la nube;
-- compartir utilizando el permiso mínimo necesario;
-- reconocer una fuente digital fiable;
-- proteger tu identidad y tu huella digital;
-- comunicarte con netiqueta y respetar la autoría.
+**Mochila digital y protocolo personal de ciudadanía.**
 
-## Ruta del bloque
+## Ruta
 
 ```mermaid
 flowchart LR
-  A["1 · Aprende"] --> B["2 · Practica"] --> C["3 · Revisa"] --> D["4 · Entrega"]
+ A[Comprender] --> B[Practicar] --> C[Crear] --> D[Comprobar] --> E[Entregar en Aules]
 ```
-
-!!! question "Pregunta guía"
-    ¿Podría otra persona encontrar, comprender y proteger tu trabajo digital sin que estuvieras delante para explicárselo?
-

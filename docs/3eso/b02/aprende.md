@@ -1,28 +1,59 @@
 # Aprende · Hardware y sistemas operativos
 
+<span class="course-badge">3.º ESO · 4 semanas</span>
+
+!!! question "Pregunta guía"
+    ¿Cómo elegimos, cuidamos y diagnosticamos un ordenador?
+
 ## 1. Hardware y software
 
-El hardware reúne los componentes físicos; el software contiene las instrucciones. CPU, memoria RAM, almacenamiento, placa base, fuente de alimentación y periféricos cumplen funciones distintas y trabajan coordinadamente.
+El hardware reúne los componentes físicos y el software contiene instrucciones y datos. Un equipo funciona como un sistema: procesador, memoria, almacenamiento, placa base, alimentación y periféricos intercambian información y dependen unos de otros.
 
-## 2. Datos y unidades
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
 
-El bit es la unidad mínima. Ocho bits forman un byte. Conviene distinguir KB, MB, GB y TB, y no confundir capacidad de almacenamiento con memoria de trabajo.
+## 2. Procesador y memoria
 
-## 3. Sistema operativo
+La CPU ejecuta instrucciones y coordina operaciones. La RAM mantiene temporalmente los datos que usan los programas. Más frecuencia o más memoria no garantizan por sí solas mejor rendimiento: importan la tarea, la arquitectura y el equilibrio del conjunto.
 
-El sistema operativo administra el hardware, los archivos, las aplicaciones y las cuentas. Actualizarlo, bloquear la sesión y trabajar con una cuenta adecuada son hábitos básicos.
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
 
-## 4. Diagnóstico ordenado
+## 3. Almacenamiento y unidades
 
-Antes de cambiar nada: observar el síntoma, anotar mensajes, comprobar conexiones, reiniciar con criterio, revisar espacio y actualizaciones, probar una hipótesis cada vez y documentar el resultado.
+SSD y HDD conservan datos sin alimentación. Un SSD suele ofrecer menor latencia; un HDD puede aportar capacidad económica. Ocho bits forman un byte y las unidades KB, MB, GB y TB permiten expresar tamaños sin confundir almacenamiento con memoria de trabajo.
 
-## 5. Sostenibilidad
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
 
-Alargar la vida útil, reparar cuando sea viable, reducir el consumo y llevar los residuos electrónicos a un punto autorizado disminuye el impacto ambiental.
+## 4. Placa, energía y periféricos
 
-!!! tip "Método de trabajo"
-    Conserva evidencias de tus decisiones y pruebas. Si algo falla, cambia una sola variable cada vez y anota el resultado.
+La placa base conecta los componentes y determina compatibilidades. La fuente transforma y distribuye energía. Entrada, salida y almacenamiento describen la función de los periféricos, aunque algunos dispositivos combinan varias.
 
-!!! warning "Uso responsable"
-    No utilices datos personales reales, contenido sin licencia ni acciones que puedan dañar equipos, cuentas o personas. Ante una duda de seguridad, detente y consulta.
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
 
+## 5. Sistema operativo
+
+El sistema operativo gestiona procesos, memoria, archivos, dispositivos, cuentas y permisos. Actualizar, bloquear la sesión y evitar privilegios innecesarios reduce errores y riesgos. Las aplicaciones se ejecutan sobre los servicios que ofrece el sistema.
+
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
+
+## 6. Diagnóstico
+
+Un diagnóstico ordenado empieza por describir el síntoma y reproducirlo. Después se comprueban conexiones, espacio, mensajes y cambios recientes. Se modifica una sola variable cada vez, se registra el resultado y se evita desmontar o borrar sin autorización.
+
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
+
+## 7. Mantenimiento y sostenibilidad
+
+Limpiar con seguridad, ventilar, actualizar y conservar copias prolonga la vida del equipo. Reparar o ampliar puede evitar una compra. Los residuos electrónicos se entregan en puntos autorizados porque contienen materiales recuperables y sustancias peligrosas.
+
+!!! example "Comprueba que lo entiendes"
+    Explica la idea con un ejemplo propio y señala una decisión que tomarías en una situación real.
+
+## Síntesis
+
+Al terminar, debes poder explicar los conceptos con tus palabras, aplicarlos en una tarea, comprobar el resultado y justificar las decisiones de seguridad, accesibilidad y autoría.

@@ -1,26 +1,19 @@
-# Plan del curso · 2 horas semanales
+# Plan del curso
 
-La temporalización es flexible: contempla aproximadamente **66 sesiones lectivas** y deja margen para evaluación inicial, actividades del centro, recuperación y ajustes del calendario.
+## Temporalización orientativa
 
-| Periodo orientativo | Bloque | Sesiones | Producto principal |
-|---|---|---:|---|
-| Septiembre–octubre | B01 · Entorno digital | 8 | Sistema personal o de equipo |
-| Octubre–noviembre | B02 · Hardware y sistemas | 9 | Guía técnica y diagnóstico |
-| Noviembre–enero | B03 · Redes y ciberseguridad | 10 | Diseño de red y plan de protección |
-| Enero–febrero | B04 · Ofimática y datos | 10 | Informe o cuadro de mando |
-| Marzo–abril | B05 · Creación multimedia | 10 | Campaña audiovisual |
-| Abril–mayo | B06 · Programación y web | 11 | Web o aplicación sencilla |
-| Mayo–junio | Proyecto final | 8 | Solución digital integrada |
+| Unidad | Semanas | Sesiones | Producto |
+|---|---:|---:|---|
+| B01 · Entorno digital, nube y ciudadanía | 4 | 8 | Mochila digital y protocolo personal de ciudadanía |
+| B02 · Hardware y sistemas operativos | 4 | 8 | Guía visual de un equipo y árbol de diagnóstico |
+| B03 · Redes, ciberseguridad y privacidad | 5 | 10 | Plan de red segura y campaña contra el phishing |
+| B04 · Documentos, hojas de cálculo y datos | 5 | 10 | Informe con documento, hoja de cálculo y gráfico |
+| B05 · Creación multimedia | 5 | 10 | Pieza audiovisual accesible de 60–90 segundos |
+| B06 · Programación y web | 6 | 12 | Programa por bloques y micrositio accesible |
+| Proyecto final | 4 | 8 | Solución digital integrada |
 
-## Ritmo habitual de un bloque
+Total planificado: **33 semanas y 66 sesiones**. Los festivos, actividades de centro y necesidades del grupo pueden desplazar una sesión sin alterar el orden.
 
-1. Situación inicial y diagnóstico.
-2. Explicación breve con demostración.
-3. Actividades guiadas.
-4. Práctica principal por fases.
-5. Revisión entre iguales y mejora.
-6. Entrega, demostración y reflexión.
+## Evaluación
 
-!!! info "Adaptación"
-    El profesor puede reducir o ampliar una práctica sin cambiar los objetivos esenciales. En 3.º se proporcionarán ejemplos y plantillas; en 4.º aumentarán la autonomía, la justificación y la calidad documental.
-
+Cada unidad se evalúa mediante cuatro actividades (60 %) y un proyecto (40 %). El proyecto final de curso se valora con su propia rúbrica. Todas las entregas se realizan en Aules.

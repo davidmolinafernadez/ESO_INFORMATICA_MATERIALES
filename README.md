@@ -1,34 +1,13 @@
-# ESO_INFORMATICA
+# Informática · 3.º ESO
 
-Proyecto docente práctico para 3.º y 4.º ESO, diseñado para dos horas semanales.
+Material completo para dos horas semanales: explicaciones, actividades, proyectos, rúbricas y entregas mediante Aules.
 
-## Web para el alumnado
+## Web del alumnado
 
-Los materiales se consultan como una web navegable, igual que en Sistemas Informáticos:
+https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/
 
-**https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/**
+Este repositorio público contiene únicamente material para 3.º ESO. Los solucionarios, registros y documentos privados permanecen fuera de GitHub.
 
-El alumnado solo necesita este enlace. Desde la portada puede elegir 3.º o 4.º ESO y acceder al bloque que se esté trabajando.
+## Organización
 
-Este repositorio publica exclusivamente materiales de las unidades. La documentación administrativa, los datos del alumnado y los registros privados del profesor se conservan fuera de GitHub.
-
-## Recorrido anual
-
-1. Entorno digital, nube y ciudadanía.
-2. Hardware y sistemas operativos.
-3. Redes, ciberseguridad y privacidad.
-4. Ofimática y tratamiento de datos.
-5. Imagen, audio y vídeo.
-6. Programación y web.
-7. Proyecto final.
-
-La inteligencia artificial se integra de manera transversal, siempre con verificación, reflexión sobre la autoría y protección de datos.
-
-## Criterio de producción
-
-Cada bloque publicado contiene una guía breve, apuntes para el alumnado, una práctica principal con adaptación para cada nivel y una rúbrica. Los solucionarios se conservan fuera del repositorio público. El material de 3.º aporta más andamiaje; el de 4.º exige mayor autonomía, justificación y calidad documental.
-
-## Fuentes curriculares de referencia
-
-- Real Decreto 217/2022, de 29 de marzo: https://www.boe.es/eli/es/rd/2022/03/29/217
-- Decreto 107/2022, de 5 de agosto, del Consell, y modificaciones vigentes.
+Seis unidades y un proyecto final. Cada unidad incluye cuatro actividades, un proyecto y una rúbrica. La web incorpora **Modo clase** para proyectar el contenido con letra ampliada.

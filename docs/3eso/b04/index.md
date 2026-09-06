@@ -1,31 +1,25 @@
-# Ofimática y tratamiento de datos
+# B04 · Documentos, hojas de cálculo y datos
 
-<span class="course-badge">3.º ESO</span>
+<span class="course-badge">5 semanas · 10 sesiones aproximadas</span>
 
 ## La misión
 
-Convertir información desordenada en un documento claro y una hoja de cálculo capaz de responder preguntas.
+¿Cómo convertimos datos desordenados en información clara y verificable?
 
 <div class="hero-actions" markdown>
-[Comenzar a aprender](aprende.md){ .md-button .md-button--primary }
-[Ver la práctica](practica.md){ .md-button }
+[Aprender](aprende.md){ .md-button .md-button--primary }
+[Actividades](actividades.md){ .md-button }
+[Proyecto](proyecto.md){ .md-button }
+[Entrega](entrega.md){ .md-button }
 </div>
 
-## Al terminar podrás…
+## Producto de la unidad
 
-- explicar los conceptos esenciales del bloque con vocabulario preciso;
-- aplicar un procedimiento ordenado para resolver el reto;
-- crear un producto digital funcional y comprensible;
-- comprobar seguridad, privacidad, accesibilidad y autoría;
-- revisar el resultado a partir de evidencias.
+**Informe con documento, hoja de cálculo y gráfico.**
 
-## Ruta de trabajo
+## Ruta
 
 ```mermaid
 flowchart LR
-  A["Comprender"] --> B["Planificar"] --> C["Crear"] --> D["Probar"] --> E["Entregar"]
+ A[Comprender] --> B[Practicar] --> C[Crear] --> D[Comprobar] --> E[Entregar en Aules]
 ```
-
-!!! question "Pregunta guía"
-    ¿Cómo puede una tabla bien diseñada ayudarnos a decidir?
-

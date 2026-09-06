@@ -1,24 +1,28 @@
-# Entrega y evaluación · Imagen, audio y vídeo
+# Entrega y evaluación · Creación multimedia
 
-## Lista de comprobación
+## Calificación
 
-- [ ] He completado todos los entregables.
-- [ ] Los archivos tienen nombres claros y una estructura coherente.
-- [ ] He comprobado enlaces, permisos y funcionamiento.
-- [ ] Las fuentes y recursos ajenos están identificados.
-- [ ] No aparecen datos personales innecesarios.
-- [ ] He revisado accesibilidad, ortografía y presentación.
-- [ ] Puedo explicar las decisiones y las mejoras realizadas.
-
-## Rúbrica resumida
-
-| Aspecto | Peso |
+| Evidencia | Peso |
 |---|---:|
-| Mensaje y planificación | 25 % |
-| Calidad técnica | 25 % |
-| Creatividad y adecuación | 25 % |
-| Licencias y accesibilidad | 25 % |
+| Cuatro actividades | 60 % |
+| Proyecto de unidad | 40 % |
 
-!!! success "Un resultado excelente"
-    Cumple el reto, funciona de forma fiable, está probado y documentado, y demuestra decisiones responsables en lugar de limitarse a seguir pasos.
+No hay examen tradicional. La calificación procede del trabajo comprobable entregado en **Aules**.
 
+## Rúbrica del proyecto
+
+| Criterio | Excelente | Adecuado | En proceso | Inicial |
+|---|---|---|---|---|
+| Comprensión técnica | Explica y aplica con precisión | Aplica los conceptos principales | Presenta confusiones parciales | No demuestra las ideas esenciales |
+| Producto | Funciona, está completo y resulta útil | Cumple el encargo con fallos menores | Cumple solo una parte | No puede utilizarse |
+| Proceso y pruebas | Documenta decisiones, pruebas y mejoras | Aporta proceso y comprobaciones | Evidencias incompletas | No muestra proceso |
+| Responsabilidad | Protege datos, acredita fuentes y cuida accesibilidad | Cumple los requisitos básicos | Necesita correcciones | Presenta riesgos o no identifica recursos |
+
+## Lista de Aules
+
+- [ ] El nombre del archivo incluye curso, unidad, actividad, nombre y versión.
+- [ ] El archivo se abre y el enlace tiene el permiso solicitado.
+- [ ] No aparecen contraseñas ni datos personales innecesarios.
+- [ ] Las fuentes y recursos ajenos están acreditados.
+- [ ] La tarea figura como **enviada**, no como borrador.
+- [ ] Conservo una copia hasta recibir la calificación.
