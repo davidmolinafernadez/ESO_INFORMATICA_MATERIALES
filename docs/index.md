@@ -1,34 +1,35 @@
-# Informática · 3.º ESO
+# Taller de Profundización de Informática · 3.º ESO
 
-<span class="course-badge">2 horas por semana · aprendizaje mediante actividades y proyectos</span>
+<span class="course-badge">2 horas semanales · 66 sesiones orientativas</span>
 
-Esta web contiene el material del alumnado de **3.º ESO**. Cada unidad ofrece explicaciones, actividades, un proyecto y la guía de entrega en Aules.
+El curso parte de los acuerdos y programaciones del Departamento de Informática del IES Jaume II «El Just». Antes de cada bloque se recuperan aprendizajes previos según las necesidades reales del grupo.
 
-[Descargar la presentación de la asignatura](recursos/PRESENTACION_INFORMATICA_3ESO_2026_2027.pptx){ .md-button .md-button--primary }
+[Descargar la presentación de la asignatura :material-microsoft-powerpoint:](recursos/PRESENTACION_INFORMATICA_3ESO_2026_2027.pptx){ .md-button }
 
 <div class="unit-grid" markdown>
-[:material-cloud-outline: **B01 · Entorno digital, nube y ciudadanía**  
-4 semanas · Mochila digital y protocolo personal de ciudadanía](3eso/b01/index.md)
+[:material-book-open-page-variant: **UD01 · Repaso digital, ofimática y Excel**  
+4 semanas · Panel personal de aprendizaje](ud01/index.md)
 
-[:material-desktop-tower-monitor: **B02 · Hardware y sistemas operativos**  
-4 semanas · Guía visual de un equipo y árbol de diagnóstico](3eso/b02/index.md)
+[:material-book-open-page-variant: **UD02 · Canva y comunicación visual**  
+4 semanas · Campaña visual con identidad coherente](ud02/index.md)
 
-[:material-shield-lock-outline: **B03 · Redes, ciberseguridad y privacidad**  
-5 semanas · Plan de red segura y campaña contra el phishing](3eso/b03/index.md)
+[:material-book-open-page-variant: **UD03 · Scratch avanzado y creación de videojuegos**  
+7 semanas · Videojuego completo con niveles](ud03/index.md)
 
-[:material-file-table-outline: **B04 · Documentos, hojas de cálculo y datos**  
-5 semanas · Informe con documento, hoja de cálculo y gráfico](3eso/b04/index.md)
+[:material-book-open-page-variant: **UD04 · Micro:bit y sistemas físicos**  
+6 semanas · Prototipo simulado con sensores](ud04/index.md)
 
-[:material-movie-open-outline: **B05 · Creación multimedia**  
-5 semanas · Pieza audiovisual accesible de 60–90 segundos](3eso/b05/index.md)
+[:material-book-open-page-variant: **UD05 · Inteligencia artificial, agentes y automatización**  
+6 semanas · Asistente responsable con flujo automatizado](ud05/index.md)
 
-[:material-code-tags: **B06 · Programación y web**  
-6 semanas · Programa por bloques y micrositio accesible](3eso/b06/index.md)
-
-[:material-trophy-outline: **Proyecto final de curso**  
-Una solución digital que integra lo aprendido.](3eso/proyecto-final/index.md)
+[:material-book-open-page-variant: **UD06 · Introducción a Python**  
+6 semanas · Juego o miniaplicación de texto](ud06/index.md)
 </div>
 
-!!! info "Entregas"
-    La web explica el trabajo. Todas las evidencias calificables se entregan mediante Aules.
+## Trabajo transversal
 
+Mecanografía lúdica, herramientas en la nube, carpetas y archivos, búsqueda contrastada, correo gva.edu, identidad digital y uso ético de IA acompañan a todas las unidades.
+
+## Evaluación
+
+Actividades y proyectos entregados en Aules. No hay exámenes tradicionales.

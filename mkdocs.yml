@@ -1,16 +1,9 @@
-site_name: Informática · 3.º ESO
-site_description: Aula digital de Informática para 3.º ESO
+site_name: Taller de Profundización de Informática · 3.º ESO
 site_url: https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/
 theme:
   name: material
   language: es
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.code.copy
+  features: [navigation.sections, navigation.top, search.suggest, search.highlight, content.code.copy]
   palette:
     - scheme: default
       primary: custom
@@ -18,66 +11,46 @@ theme:
 plugins:
   - search:
       lang: es
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - tables
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-extra_css:
-  - stylesheets/extra.css
-extra_javascript:
-  - javascripts/modo-clase.js
+markdown_extensions: [admonition, attr_list, md_in_html, tables, pymdownx.details, pymdownx.superfences]
+extra_css: [stylesheets/extra.css]
+extra_javascript: [javascripts/modo-clase.js]
 nav:
   - Inicio: index.md
   - Plan del curso: plan-curso.md
   - IA responsable: ia-responsable.md
-  - Unidades de 3.º ESO:
-      - Portada del curso: 3eso/index.md
-      - B01 · Entorno digital, nube y ciudadanía:
-          - Portada: 3eso/b01/index.md
-          - Aprende: 3eso/b01/aprende.md
-          - Actividades: 3eso/b01/actividades.md
-          - Proyecto: 3eso/b01/proyecto.md
-          - Entrega y evaluación: 3eso/b01/entrega.md
-      - B02 · Hardware y sistemas operativos:
-          - Portada: 3eso/b02/index.md
-          - Aprende: 3eso/b02/aprende.md
-          - Actividades: 3eso/b02/actividades.md
-          - Proyecto: 3eso/b02/proyecto.md
-          - Entrega y evaluación: 3eso/b02/entrega.md
-      - B03 · Redes, ciberseguridad y privacidad:
-          - Portada: 3eso/b03/index.md
-          - Aprende: 3eso/b03/aprende.md
-          - Actividades: 3eso/b03/actividades.md
-          - Proyecto: 3eso/b03/proyecto.md
-          - Entrega y evaluación: 3eso/b03/entrega.md
-      - B04 · Documentos, hojas de cálculo y datos:
-          - Portada: 3eso/b04/index.md
-          - Aprende: 3eso/b04/aprende.md
-          - Actividades: 3eso/b04/actividades.md
-          - Proyecto: 3eso/b04/proyecto.md
-          - Entrega y evaluación: 3eso/b04/entrega.md
-      - B05 · Creación multimedia:
-          - Portada: 3eso/b05/index.md
-          - Aprende: 3eso/b05/aprende.md
-          - Actividades: 3eso/b05/actividades.md
-          - Proyecto: 3eso/b05/proyecto.md
-          - Entrega y evaluación: 3eso/b05/entrega.md
-      - B06 · Programación y web:
-          - Portada: 3eso/b06/index.md
-          - Aprende: 3eso/b06/aprende.md
-          - Actividades: 3eso/b06/actividades.md
-          - Proyecto: 3eso/b06/proyecto.md
-          - Entrega y evaluación: 3eso/b06/entrega.md
-      - Proyecto final:
-          - Portada: 3eso/proyecto-final/index.md
-          - Aprende: 3eso/proyecto-final/aprende.md
-          - Práctica: 3eso/proyecto-final/practica.md
-          - Entrega: 3eso/proyecto-final/entrega.md
+  - UD01 · Repaso digital, ofimática y Excel:
+      - Portada: ud01/index.md
+      - Aprende: ud01/aprende.md
+      - Actividades: ud01/actividades.md
+      - Proyecto: ud01/proyecto.md
+      - Entrega: ud01/entrega.md
+  - UD02 · Canva y comunicación visual:
+      - Portada: ud02/index.md
+      - Aprende: ud02/aprende.md
+      - Actividades: ud02/actividades.md
+      - Proyecto: ud02/proyecto.md
+      - Entrega: ud02/entrega.md
+  - UD03 · Scratch avanzado y creación de videojuegos:
+      - Portada: ud03/index.md
+      - Aprende: ud03/aprende.md
+      - Actividades: ud03/actividades.md
+      - Proyecto: ud03/proyecto.md
+      - Entrega: ud03/entrega.md
+  - UD04 · Micro:bit y sistemas físicos:
+      - Portada: ud04/index.md
+      - Aprende: ud04/aprende.md
+      - Actividades: ud04/actividades.md
+      - Proyecto: ud04/proyecto.md
+      - Entrega: ud04/entrega.md
+  - UD05 · Inteligencia artificial, agentes y automatización:
+      - Portada: ud05/index.md
+      - Aprende: ud05/aprende.md
+      - Actividades: ud05/actividades.md
+      - Proyecto: ud05/proyecto.md
+      - Entrega: ud05/entrega.md
+  - UD06 · Introducción a Python:
+      - Portada: ud06/index.md
+      - Aprende: ud06/aprende.md
+      - Actividades: ud06/actividades.md
+      - Proyecto: ud06/proyecto.md
+      - Entrega: ud06/entrega.md

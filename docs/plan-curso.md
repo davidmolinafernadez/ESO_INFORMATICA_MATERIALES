@@ -1,19 +1,12 @@
 # Plan del curso
 
-## Temporalización orientativa
+| Unidad | Semanas | Sesiones | Competencias | Producto |
+|---|---:|---:|---|---|
+| UD01 · Repaso digital, ofimática y Excel | 4 | 8 | CE1 y CE2 | Panel personal de aprendizaje |
+| UD02 · Canva y comunicación visual | 4 | 8 | CE2 | Campaña visual con identidad coherente |
+| UD03 · Scratch avanzado y creación de videojuegos | 7 | 14 | CE2 | Videojuego completo con niveles |
+| UD04 · Micro:bit y sistemas físicos | 6 | 12 | CE1 | Prototipo simulado con sensores |
+| UD05 · Inteligencia artificial, agentes y automatización | 6 | 12 | CE1 y CE2 | Asistente responsable con flujo automatizado |
+| UD06 · Introducción a Python | 6 | 12 | CE2 | Juego o miniaplicación de texto |
 
-| Unidad | Semanas | Sesiones | Producto |
-|---|---:|---:|---|
-| B01 · Entorno digital, nube y ciudadanía | 4 | 8 | Mochila digital y protocolo personal de ciudadanía |
-| B02 · Hardware y sistemas operativos | 4 | 8 | Guía visual de un equipo y árbol de diagnóstico |
-| B03 · Redes, ciberseguridad y privacidad | 5 | 10 | Plan de red segura y campaña contra el phishing |
-| B04 · Documentos, hojas de cálculo y datos | 5 | 10 | Informe con documento, hoja de cálculo y gráfico |
-| B05 · Creación multimedia | 5 | 10 | Pieza audiovisual accesible de 60–90 segundos |
-| B06 · Programación y web | 6 | 12 | Programa por bloques y micrositio accesible |
-| Proyecto final | 4 | 8 | Solución digital integrada |
-
-Total planificado: **33 semanas y 66 sesiones**. Los festivos, actividades de centro y necesidades del grupo pueden desplazar una sesión sin alterar el orden.
-
-## Evaluación
-
-Cada unidad se evalúa mediante cuatro actividades (60 %) y un proyecto (40 %). El proyecto final de curso se valora con su propia rúbrica. Todas las entregas se realizan en Aules.
+Total: **33 semanas y 66 sesiones orientativas**. La secuencia se ajustará al calendario y al diagnóstico del grupo.

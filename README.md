@@ -1,13 +1,5 @@
-# Informática · 3.º ESO
+# Taller de Profundización de Informática · 3.º ESO
 
-Material completo para dos horas semanales: explicaciones, actividades, proyectos, rúbricas y entregas mediante Aules.
+Web pública: https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/
 
-## Web del alumnado
-
-https://davidmolinafernadez.github.io/ESO_INFORMATICA_MATERIALES/
-
-Este repositorio público contiene únicamente material para 3.º ESO. Los solucionarios, registros y documentos privados permanecen fuera de GitHub.
-
-## Organización
-
-Seis unidades y un proyecto final. Cada unidad incluye cuatro actividades, un proyecto y una rúbrica. La web incorpora **Modo clase** para proyectar el contenido con letra ampliada.
+Materiales de alumnado adaptados a la programación 2025-2026 del IES Jaume II «El Just» y a la propuesta departamental de continuidad. Curso 2026-2027: dos horas semanales, evaluación mediante actividades y proyectos, entregas en Aules.
