@@ -2,10 +2,13 @@
 
 La unidad se evalúa mediante evidencias prácticas. **No se realizará examen tradicional.**
 
-| Evidencia | Peso |
-|---|---:|
-| Cuatro actividades | 60 % |
-| Proyecto de unidad | 40 % |
+| Evidencia | Código en Aules | Peso |
+|---|---|---:|
+| Actividad 1 | 3ESO-UD04-A01 | 15 % |
+| Actividad 2 | 3ESO-UD04-A02 | 15 % |
+| Actividad 3 | 3ESO-UD04-A03 | 15 % |
+| Actividad 4 | 3ESO-UD04-A04 | 15 % |
+| Proyecto de unidad | 3ESO-UD04-P01 | 40 % |
 
 ## Rúbrica común
 
@@ -18,7 +21,7 @@ La unidad se evalúa mediante evidencias prácticas. **No se realizará examen t
 
 ## Lista de Aules
 
-- [ ] El archivo tiene el nombre y formato solicitados.
+- [ ] El código de la tarea coincide con el nombre del archivo.
 - [ ] El enlace funciona con el permiso indicado.
 - [ ] He abierto el producto final y comprobado su funcionamiento.
 - [ ] He citado información, imágenes, código y otros recursos.

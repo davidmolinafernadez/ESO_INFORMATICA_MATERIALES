@@ -1,21 +1,21 @@
-# Proyecto · Campaña visual con identidad coherente
+# 3ESO-UD02-P01 · Proyecto · Campaña visual con identidad coherente
 
 ## Encargo
 
-Integra lo aprendido en canva y comunicación visual mediante un producto útil para una situación académica o cotidiana. El profesor concretará datos, audiencia y formato.
+Integra lo aprendido en canva y comunicación visual mediante un producto útil para una situación académica o cotidiana. Debes reutilizar o mejorar evidencias de las actividades, tomar decisiones propias y demostrar que el resultado ha sido probado.
 
 ## Fases
 
-1. Interpretar el encargo y los criterios.
-2. Planificar archivos, tareas y recursos.
+1. Interpretar el encargo y transformar los criterios en una lista de control.
+2. Planificar archivos, tareas, recursos y responsabilidades.
 3. Crear una versión mínima comprobable.
-4. Realizar al menos tres pruebas.
-5. Aplicar mejoras y justificar una decisión.
-6. Entregar en Aules producto, editable, fuentes y reflexión.
+4. Realizar al menos tres pruebas diferentes y registrar los resultados.
+5. Aplicar mejoras y justificar una decisión importante.
+6. Entregar en la tarea **3ESO-UD02-P01** de Aules el producto, el editable, las fuentes y la reflexión.
 
-## Nombre
+## Nombre de entrega
 
-`3ESO_UD02_PROYECTO_Nombre_v01`
+`3ESO-UD02-P01-ApellidoNombre-v01`
 
 ## Uso de IA
 
