@@ -5,6 +5,7 @@
 El curso parte de los acuerdos y programaciones del Departamento de Informática del IES Jaume II «El Just». Antes de cada bloque se recuperan aprendizajes previos según las necesidades reales del grupo.
 
 [Descargar la presentación de la asignatura](recursos/PRESENTACION_INFORMATICA_3ESO_2026_2027.pptx){ .md-button }
+[Abrir la prueba inicial de nivel](prueba-nivel.md){ .md-button .md-button--primary }
 
 <div class="unit-grid" markdown>
 [**UD01 · Repaso digital, ofimática y Excel**  

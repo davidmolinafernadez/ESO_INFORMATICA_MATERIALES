@@ -16,6 +16,7 @@ extra_css: [stylesheets/extra.css]
 extra_javascript: [javascripts/modo-clase.js]
 nav:
   - Inicio: index.md
+  - Prueba inicial de nivel: prueba-nivel.md
   - Plan del curso: plan-curso.md
   - IA responsable: ia-responsable.md
   - UD01 · Repaso digital, ofimática y Excel:
