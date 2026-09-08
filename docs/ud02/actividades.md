@@ -1,97 +1,152 @@
 # Actividades · Canva y comunicación visual
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 3ESO-UD02-A01 | Analizar jerarquía de dos carteles | Producto + comprobación |
-| 3ESO-UD02-A02 | Crear una infografía con datos contrastados | Producto + comprobación |
-| 3ESO-UD02-A03 | Diseñar variantes para pantalla y papel | Producto + comprobación |
-| 3ESO-UD02-A04 | Revisión por pares de accesibilidad y licencias | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN2_1 | Analizar jerarquía de dos carteles |
+| ACT_UN2_2 | Crear una infografía con datos contrastados |
+| ACT_UN2_3 | Diseñar variantes para pantalla y papel |
+| ACT_UN2_4 | Revisión por pares de accesibilidad y licencias |
 
-## 3ESO-UD02-A01 · Analizar jerarquía de dos carteles
+## ACT_UN2_1 · Analizar jerarquía de dos carteles
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «analizar jerarquía de dos carteles» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a comunicar una idea con un diseño sencillo.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD02-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `3ESO-UD02-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 3ESO-UD02-A02 · Crear una infografía con datos contrastados
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «crear una infografía con datos contrastados» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD02-A02** en Aules y revisa la lista de entrega.
+1. Define el mensaje y a quién va dirigido.
+2. Elige el formato.
+3. Coloca primero el título.
+4. Añade solo la información necesaria.
+5. Usa dos o tres colores.
+6. Revisa contraste, alineación y fuentes.
+7. Exporta en el formato indicado.
+8. Guarda el resultado como `ACT_UN2_1_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN2_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `3ESO-UD02-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 3ESO-UD02-A03 · Diseñar variantes para pantalla y papel
+- [ ] El nombre empieza por `ACT_UN2_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN2_2 · Crear una infografía con datos contrastados
 
-**Enunciado:** realiza «diseñar variantes para pantalla y papel» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a comunicar una idea con un diseño sencillo.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD02-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `3ESO-UD02-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 3ESO-UD02-A04 · Revisión por pares de accesibilidad y licencias
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «revisión por pares de accesibilidad y licencias» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD02-A04** en Aules y revisa la lista de entrega.
+1. Define el mensaje y a quién va dirigido.
+2. Elige el formato.
+3. Coloca primero el título.
+4. Añade solo la información necesaria.
+5. Usa dos o tres colores.
+6. Revisa contraste, alineación y fuentes.
+7. Exporta en el formato indicado.
+8. Guarda el resultado como `ACT_UN2_2_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN2_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `3ESO-UD02-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN2_3 · Diseñar variantes para pantalla y papel
+
+### ¿Qué vas a hacer?
+
+Vas a comunicar una idea con un diseño sencillo.
+
+!!! example "Ejemplo sencillo"
+    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Define el mensaje y a quién va dirigido.
+2. Elige el formato.
+3. Coloca primero el título.
+4. Añade solo la información necesaria.
+5. Usa dos o tres colores.
+6. Revisa contraste, alineación y fuentes.
+7. Exporta en el formato indicado.
+8. Guarda el resultado como `ACT_UN2_3_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN2_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN2_4 · Revisión por pares de accesibilidad y licencias
+
+### ¿Qué vas a hacer?
+
+Vas a mejorar un trabajo mediante comentarios sencillos.
+
+!!! example "Ejemplo sencillo"
+    Puedes decir qué está bien, qué no se entiende y cómo puede mejorarse. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Comparte el archivo con permiso de comentario.
+2. Lee el trabajo completo de tu compañero.
+3. Añade un comentario sobre algo conseguido.
+4. Añade otro con una mejora concreta.
+5. Lee los comentarios que recibas.
+6. Aplica una mejora y marca el comentario como resuelto.
+7. Guarda el resultado como `ACT_UN2_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN2_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

@@ -1,97 +1,152 @@
 # Actividades · Scratch avanzado y creación de videojuegos
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 3ESO-UD03-A01 | Prototipo de una mecánica principal | Producto + comprobación |
-| 3ESO-UD03-A02 | Sistema de vidas, puntos y reinicio | Producto + comprobación |
-| 3ESO-UD03-A03 | Uso de mensajes, clones y bloque propio | Producto + comprobación |
-| 3ESO-UD03-A04 | Sesión de pruebas con registro de mejoras | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN3_1 | Prototipo de una mecánica principal |
+| ACT_UN3_2 | Sistema de vidas, puntos y reinicio |
+| ACT_UN3_3 | Uso de mensajes, clones y bloque propio |
+| ACT_UN3_4 | Sesión de pruebas con registro de mejoras |
 
-## 3ESO-UD03-A01 · Prototipo de una mecánica principal
+## ACT_UN3_1 · Prototipo de una mecánica principal
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «prototipo de una mecánica principal» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a crear un programa por bloques pequeño y comprobable.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD03-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `3ESO-UD03-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 3ESO-UD03-A02 · Sistema de vidas, puntos y reinicio
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «sistema de vidas, puntos y reinicio» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD03-A02** en Aules y revisa la lista de entrega.
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN3_1_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN3_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `3ESO-UD03-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 3ESO-UD03-A03 · Uso de mensajes, clones y bloque propio
+- [ ] El nombre empieza por `ACT_UN3_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN3_2 · Sistema de vidas, puntos y reinicio
 
-**Enunciado:** realiza «uso de mensajes, clones y bloque propio» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a crear un programa por bloques pequeño y comprobable.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD03-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `3ESO-UD03-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 3ESO-UD03-A04 · Sesión de pruebas con registro de mejoras
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «sesión de pruebas con registro de mejoras» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **3ESO-UD03-A04** en Aules y revisa la lista de entrega.
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN3_2_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN3_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `3ESO-UD03-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN3_3 · Uso de mensajes, clones y bloque propio
+
+### ¿Qué vas a hacer?
+
+Vas a crear un programa por bloques pequeño y comprobable.
+
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN3_3_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN3_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN3_4 · Sesión de pruebas con registro de mejoras
+
+### ¿Qué vas a hacer?
+
+Vas a encontrar y corregir errores de forma ordenada.
+
+!!! example "Ejemplo sencillo"
+    Puedes anotar: esperaba 1 punto, obtuvo 2, había un bloque repetido y lo eliminé. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Abre el proyecto con errores.
+2. Reproduce el fallo una vez.
+3. Escribe qué esperabas y qué ocurrió.
+4. Cambia una sola cosa.
+5. Vuelve a probar.
+6. Anota el error, la causa, el cambio y el resultado.
+7. Guarda el resultado como `ACT_UN3_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN3_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

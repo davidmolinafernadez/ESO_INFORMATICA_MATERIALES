@@ -4,10 +4,10 @@ La unidad se evalúa mediante evidencias prácticas. **No se realizará examen t
 
 | Evidencia | Código en Aules | Peso |
 |---|---|---:|
-| Actividad 1 | 3ESO-UD06-A01 | 15 % |
-| Actividad 2 | 3ESO-UD06-A02 | 15 % |
-| Actividad 3 | 3ESO-UD06-A03 | 15 % |
-| Actividad 4 | 3ESO-UD06-A04 | 15 % |
+| Actividad 1 | ACT_UN6_1 | 15 % |
+| Actividad 2 | ACT_UN6_2 | 15 % |
+| Actividad 3 | ACT_UN6_3 | 15 % |
+| Actividad 4 | ACT_UN6_4 | 15 % |
 | Proyecto de unidad | 3ESO-UD06-P01 | 40 % |
 
 ## Rúbrica común
