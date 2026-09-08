@@ -4,29 +4,33 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 | Código en Aules | Actividad |
 |---|---|
-| ACT_UN1_1 | Prueba diagnóstica práctica |
-| ACT_UN1_2 | Resolver un conflicto de versiones y permisos |
-| ACT_UN1_3 | Construir una hoja con fórmulas relativas y absolutas |
-| ACT_UN1_4 | Crear un gráfico y defender una conclusión |
+| ACT_UN1_1 | Crear y dar formato a un documento |
+| ACT_UN1_2 | Completar un documento con tabla e imagen |
+| ACT_UN1_3 | Crear una hoja de cálculo de material escolar |
+| ACT_UN1_4 | Calcular descuentos, totales y crear un gráfico |
 
-## ACT_UN1_1 · Prueba diagnóstica práctica
+## ACT_UN1_1 · Crear y dar formato a un documento
 
 ### ¿Qué vas a hacer?
 
-Vas a descubrir qué recuerdas antes de empezar.
+Vas a crear un documento completo. No necesitas ninguna ficha externa.
 
 !!! example "Ejemplo sencillo"
-    Puedes rellenar una ficha marcando «sé hacerlo», «necesito ayuda» o «todavía no». No copies el ejemplo: úsalo para entender el resultado.
+    **Título:** Uso responsable del aula de informática
+
+    **Texto:** En el aula de informática compartimos equipos y recursos. Debemos cuidar el material, organizar nuestros archivos y respetar la privacidad de los demás. Antes de entregar un trabajo comprobamos que se abre correctamente y que su nombre permite identificarlo.
 
 ### Pasos
 
-1. Abre la ficha que te entregue el profesor.
-2. Lee una pregunta cada vez.
-3. Responde sin buscar la solución.
-4. Marca si lo has hecho solo o con ayuda.
-5. Revisa que has contestado todas las preguntas.
-6. Guarda el resultado como `ACT_UN1_1_ApellidoNombre_v01`.
-7. Entra en Aules, abre **ACT_UN1_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+1. Abre un documento nuevo en Writer, Word o Documentos de Google.
+2. Escribe el título y el texto incluidos en el ejemplo.
+3. Pon el título a 18 puntos, en negrita, centrado y azul oscuro.
+4. Pon el párrafo a 12 puntos, justificado y con interlineado 1,5.
+5. Añade una lista con tres normas concretas para el aula.
+6. Añade al pie tu nombre y el grupo; no incluyas otros datos personales.
+7. Pasa el corrector ortográfico y exporta el documento a PDF.
+8. Guarda el PDF como `ACT_UN1_1_ApellidoNombre_v01.pdf`.
+9. Entra en Aules, abre **ACT_UN1_1**, adjunta el PDF y pulsa **Enviar tarea**.
 
 ### ¿Qué debes entregar?
 
@@ -42,25 +46,26 @@ Vas a descubrir qué recuerdas antes de empezar.
 - [ ] Puedo explicar lo que he hecho.
 - [ ] No aparecen datos personales.
 
-## ACT_UN1_2 · Resolver un conflicto de versiones y permisos
+## ACT_UN1_2 · Completar un documento con tabla e imagen
 
 ### ¿Qué vas a hacer?
 
-Vas a encontrar fallos antes de entregar.
+Vas a ampliar el documento anterior con una tabla y una imagen correctamente identificada.
 
 !!! example "Ejemplo sencillo"
-    Puedes detectar una fecha escrita como texto, un precio sin formato o dos versiones diferentes. No copies el ejemplo: úsalo para entender el resultado.
+    Crea una tabla de tres columnas: **Norma**, **Por qué es importante** y **Ejemplo correcto**. Incluye tres filas: cuidar el equipo, ordenar los archivos y proteger la contraseña.
 
 ### Pasos
 
-1. Abre el archivo preparado por el profesor.
-2. Revisa nombres, datos, fórmulas o versiones.
-3. Marca cada error que encuentres.
-4. Escribe por qué es un error.
-5. Corrige una copia, no el original.
-6. Guarda una lista de los cambios.
-7. Guarda el resultado como `ACT_UN1_2_ApellidoNombre_v01`.
-8. Entra en Aules, abre **ACT_UN1_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+1. Abre una copia editable de `ACT_UN1_1`.
+2. Inserta la tabla indicada y completa las nueve celdas con frases propias.
+3. Busca una imagen reutilizable relacionada con la seguridad digital.
+4. Inserta la imagen debajo de la tabla y ajusta su anchura para que no salga del margen.
+5. Escribe debajo `Fuente:` y pega la dirección de la página original.
+6. Añade un encabezado con `Informática · UD01` y números de página.
+7. Revisa que tabla e imagen se vean completas y exporta a PDF.
+8. Guarda el PDF como `ACT_UN1_2_ApellidoNombre_v01.pdf`.
+9. Entra en Aules, abre **ACT_UN1_2**, adjunta el PDF y pulsa **Enviar tarea**.
 
 ### ¿Qué debes entregar?
 
@@ -76,23 +81,23 @@ Vas a encontrar fallos antes de entregar.
 - [ ] Puedo explicar lo que he hecho.
 - [ ] No aparecen datos personales.
 
-## ACT_UN1_3 · Construir una hoja con fórmulas relativas y absolutas
+## ACT_UN1_3 · Crear una hoja de cálculo de material escolar
 
 ### ¿Qué vas a hacer?
 
 Vas a realizar cálculos automáticos y comprobarlos.
 
 !!! example "Ejemplo sencillo"
-    Puedes escribir =B2*C2 y copiar la fórmula hacia abajo. No copies el ejemplo: úsalo para entender el resultado.
+    Introduce esta tabla: Cuaderno, 2, 3,50 €; Bolígrafo, 5, 0,80 €; Carpeta, 3, 2,25 €; Memoria USB, 1, 9,90 €; Auriculares, 2, 7,50 €.
 
 ### Pasos
 
-1. Escribe los encabezados de la tabla.
-2. Introduce los datos sin escribir unidades dentro de las celdas numéricas.
-3. Escribe la primera fórmula comenzando por =.
-4. Copia la fórmula hacia abajo.
-5. Comprueba una fila con una calculadora.
-6. Corrige cualquier resultado diferente.
+1. Abre una hoja nueva y escribe `Producto`, `Cantidad`, `Precio` e `Importe` en A1:D1.
+2. Introduce los cinco productos y sus datos; escribe los precios como números y aplica formato moneda.
+3. En D2 escribe `=B2*C2` y copia la fórmula hasta D6.
+4. En C7 escribe `TOTAL` y en D7 escribe `=SUMA(D2:D6)`.
+5. En C8 escribe `MEDIA` y calcula en D8 la media de los importes.
+6. Comprueba con calculadora el importe de los cuadernos y el total.
 7. Guarda el resultado como `ACT_UN1_3_ApellidoNombre_v01`.
 8. Entra en Aules, abre **ACT_UN1_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
@@ -110,23 +115,24 @@ Vas a realizar cálculos automáticos y comprobarlos.
 - [ ] Puedo explicar lo que he hecho.
 - [ ] No aparecen datos personales.
 
-## ACT_UN1_4 · Crear un gráfico y defender una conclusión
+## ACT_UN1_4 · Calcular descuentos, totales y crear un gráfico
 
 ### ¿Qué vas a hacer?
 
 Vas a convertir datos en una imagen y explicar qué muestran.
 
 !!! example "Ejemplo sencillo"
-    Puedes usar barras para comparar categorías y escribir una conclusión con un número. No copies el ejemplo: úsalo para entender el resultado.
+    Utiliza la hoja de ACT_UN1_3. El descuento para todos los productos será del **10 %**, escrito una sola vez en la celda F1.
 
 ### Pasos
 
-1. Selecciona la tabla y sus encabezados.
-2. Inserta un gráfico adecuado.
-3. Escribe un título claro.
-4. Comprueba unidades y categorías.
-5. Escribe dos conclusiones que incluyan números.
-6. Revisa que el gráfico representa bien los datos.
+1. Abre una copia de ACT_UN1_3 y escribe `Descuento` en E1 y `10 %` en F1.
+2. En E2 calcula el descuento con `=D2*$F$1` y copia la fórmula hasta E6.
+3. Escribe `Precio final` en F1 después de mover el 10 % a H1; adapta la fórmula para usar `$H$1`.
+4. En F2 calcula `=D2-E2` y copia hasta F6.
+5. Selecciona Producto y Precio final e inserta un gráfico de columnas.
+6. Titula el gráfico `Compra de material con descuento`.
+7. Debajo de la tabla escribe cuál es el producto con mayor coste final y el total que se ahorra.
 7. Guarda el resultado como `ACT_UN1_4_ApellidoNombre_v01`.
 8. Entra en Aules, abre **ACT_UN1_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 

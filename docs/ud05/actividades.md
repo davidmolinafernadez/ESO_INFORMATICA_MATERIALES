@@ -20,7 +20,7 @@ Vas a descubrir qué recuerdas antes de empezar.
 
 ### Pasos
 
-1. Abre la ficha que te entregue el profesor.
+1. Abre un documento nuevo y escribe cinco usos de la IA que conozcas.
 2. Lee una pregunta cada vez.
 3. Responde sin buscar la solución.
 4. Marca si lo has hecho solo o con ayuda.
