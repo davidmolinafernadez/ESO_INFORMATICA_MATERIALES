@@ -17,9 +17,15 @@
 [Entrega en Aules](entrega.md){ .md-button }
 </div>
 
-## Ruta
+## Ruta de trabajo
 
-```mermaid
-flowchart LR
- A[Repasar] --> B[Comprender] --> C[Practicar] --> D[Crear] --> E[Revisar] --> F[Aules]
-```
+<div class="learning-route">
+  <div class="route-step"><strong>1</strong><span>Repasar</span></div><span class="route-arrow">→</span>
+  <div class="route-step"><strong>2</strong><span>Comprender</span></div><span class="route-arrow">→</span>
+  <div class="route-step"><strong>3</strong><span>Practicar</span></div><span class="route-arrow">→</span>
+  <div class="route-step"><strong>4</strong><span>Crear</span></div><span class="route-arrow">→</span>
+  <div class="route-step"><strong>5</strong><span>Revisar</span></div><span class="route-arrow">→</span>
+  <div class="route-step"><strong>6</strong><span>Entregar en Aules</span></div>
+</div>
+
+Esta ruta indica el orden recomendado: primero recordamos lo necesario, después aprendemos y practicamos, creamos el producto, lo revisamos y finalmente lo entregamos.
