@@ -145,36 +145,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 **Comprobación rápida:** explica el concepto en dos frases, propón un ejemplo diferente y señala una prueba que realizarías.
 
-## Herramientas para realizar las prácticas
-
-En esta asignatura no vamos a instalar Windows. Para trabajar con documentos, hojas de cálculo y presentaciones utilizaremos una de estas dos opciones. El profesor indicará cuál corresponde en cada sesión.
-
-### Opción principal · Microsoft 365 en la web
-
-1. Abre [Microsoft 365](https://www.microsoft365.com/).
-2. Inicia sesión con tu cuenta educativa `gva.edu`; no utilices una cuenta personal.
-3. Elige **Word**, **Excel** o **PowerPoint** según la actividad.
-4. Crea el archivo y ponle desde el principio el código indicado, por ejemplo `ACT_UN1_1_ApellidoNombre_v01`.
-5. Comprueba que se ha guardado en OneDrive y conserva el archivo editable.
-6. Descarga la copia solicitada o entrega en Aules un enlace con permiso de lectura.
-7. Prueba el enlace en una ventana privada y cierra la sesión al terminar.
-
-!!! warning "Protege tu identidad digital"
-    No guardes contraseñas en el navegador de un equipo compartido ni compartas códigos de verificación. Una entrega no está terminada hasta comprobar que el enlace funciona.
-
-### Opción alternativa · Máquina virtual OVA
-
-Cuando una práctica necesite las aplicaciones de escritorio, el profesor podrá facilitar una máquina virtual ya preparada.
-
-1. Obtén la OVA desde Aules o desde la ubicación de red indicada por el profesor.
-2. En VirtualBox selecciona **Archivo → Importar servicio virtualizado**.
-3. Elige la OVA, revisa dónde se guardará y pulsa **Importar**.
-4. Inicia la máquina y utiliza Word, Excel o PowerPoint para realizar la tarea.
-5. Conserva una copia de seguridad del trabajo fuera de la máquina virtual.
-6. Cierra Windows mediante **Inicio → Apagar** antes de cerrar VirtualBox.
-
-La OVA es un recurso de trabajo y recuperación. Instalar Windows o configurar la máquina no constituye una actividad evaluable de esta asignatura.
-
 ## Cierre de la explicación
 
 1. Resume tres ideas esenciales sin consultar la pantalla.
