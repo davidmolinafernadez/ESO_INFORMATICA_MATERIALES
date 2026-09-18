@@ -15,10 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a crear un documento completo. No necesitas ninguna ficha externa.
 
-!!! example "Ejemplo sencillo"
-    **Título:** Uso responsable del aula de informática
-
-    **Texto:** En el aula de informática compartimos equipos y recursos. Debemos cuidar el material, organizar nuestros archivos y respetar la privacidad de los demás. Antes de entregar un trabajo comprobamos que se abre correctamente y que su nombre permite identificarlo.
+!!! example "Ejemplo de resultado"
+    Documento de una página con título, párrafo, lista de tres normas, pie con nombre y exportación correcta a PDF.
 
 ### Pasos
 
@@ -52,8 +50,8 @@ Vas a crear un documento completo. No necesitas ninguna ficha externa.
 
 Vas a ampliar el documento anterior con una tabla y una imagen correctamente identificada.
 
-!!! example "Ejemplo sencillo"
-    Crea una tabla de tres columnas: **Norma**, **Por qué es importante** y **Ejemplo correcto**. Incluye tres filas: cuidar el equipo, ordenar los archivos y proteger la contraseña.
+!!! example "Ejemplo de resultado"
+    Tabla de tres columnas y tres filas, imagen proporcionada, fuente bajo la imagen, encabezado y número de página.
 
 ### Pasos
 
@@ -87,8 +85,8 @@ Vas a ampliar el documento anterior con una tabla y una imagen correctamente ide
 
 Vas a realizar cálculos automáticos y comprobarlos.
 
-!!! example "Ejemplo sencillo"
-    Introduce esta tabla: Cuaderno, 2, 3,50 €; Bolígrafo, 5, 0,80 €; Carpeta, 3, 2,25 €; Memoria USB, 1, 9,90 €; Auriculares, 2, 7,50 €.
+!!! example "Ejemplo de resultado"
+    Para 2 cuadernos a 3,50 €, la celda de importe muestra **7,00 €** mediante `=B2*C2`.
 
 ### Pasos
 
@@ -121,8 +119,8 @@ Vas a realizar cálculos automáticos y comprobarlos.
 
 Vas a convertir datos en una imagen y explicar qué muestran.
 
-!!! example "Ejemplo sencillo"
-    Utiliza la hoja de ACT_UN1_3. El descuento para todos los productos será del **10 %**, escrito una sola vez en la celda F1.
+!!! example "Ejemplo de resultado"
+    Tabla con descuento del 10 %, total final y gráfico de columnas titulado `Compra de material con descuento`.
 
 ### Pasos
 

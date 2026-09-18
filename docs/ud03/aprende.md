@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Mecánicas, objetivo, reglas, dificultad y respuesta al jugador se describen antes de programar. Un prototipo prueba la idea central con pocos elementos.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Crea proyecto y escribe en papel jugador, objetivo y derrota
+    2. Programa solo el movimiento y comprueba que responde
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Diseño del juego» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Mecánicas, objetivo, reglas, dificultad y respuesta al jugador se describen ant
 ### Idea clave
 
 Teclado, clics, mensajes y eventos propios coordinan objetos sin mezclar todos los guiones. Cada evento tiene una responsabilidad reconocible.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Añade evento al pulsar A y evento de colisión
+    2. Cada evento debe producir un único cambio visible
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Eventos y comunicación» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Teclado, clics, mensajes y eventos propios coordinan objetos sin mezclar todos l
 
 Puntuación, vidas, nivel y tiempo representan el estado. Las variables globales y de objeto se eligen según quién necesita el dato.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Crea puntos y vidas; fija ambos al inicio
+    2. Provoca una colisión y observa qué variable cambia
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Estado y variables» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -45,6 +63,12 @@ Puntuación, vidas, nivel y tiempo representan el estado. Las variables globales
 ### Idea clave
 
 Condiciones anidadas, bucles y operadores permiten reglas más complejas. Se evita duplicar código creando bloques propios con parámetros.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Añade condición si puntos = 5 entonces ganar
+    2. Prueba 4, 5 y 6 para comprobar el límite
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Control y operadores» y con qué evidencia demostrarías que funciona correctamente?
@@ -57,6 +81,12 @@ Condiciones anidadas, bucles y operadores permiten reglas más complejas. Se evi
 
 Los clones generan enemigos u objetos reutilizables. Los niveles modifican velocidad, cantidad o reglas de forma gradual y comprobable.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Crea función crearEnemigo y llámala cada dos segundos
+    2. Deben aparecer varios enemigos sin duplicar bloques
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Clones y niveles» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -68,6 +98,12 @@ Los clones generan enemigos u objetos reutilizables. Los niveles modifican veloc
 
 Una tabla registra caso, resultado esperado, resultado real y corrección. Probar con otras personas revela dificultades y errores que el autor no ve.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Juega tres veces y registra fallo, causa y cambio
+    2. Repite la prueba después de corregir
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Pruebas y equilibrio» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -78,6 +114,12 @@ Una tabla registra caso, resultado esperado, resultado real y corrección. Proba
 ### Idea clave
 
 Instrucciones, controles, créditos y licencia acompañan al juego. Se evita contenido ofensivo, datos personales o mecánicas manipuladoras.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → MakeCode Arcade
+
+    1. Pulsa Compartir, escribe nombre y genera enlace
+    2. Abre el enlace en ventana privada antes de Aules
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Publicación responsable» y con qué evidencia demostrarías que funciona correctamente?

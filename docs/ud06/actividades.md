@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a crear un programa de texto corto y fácil de probar.
 
-!!! example "Ejemplo sencillo"
-    Puedes preguntar una edad, convertirla a número y mostrar un mensaje con if y else. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Entrada `nombre` y `edad`; salida `Hola, Ana. El año próximo tendrás 15 años`, calculada por el programa.
 
 ### Pasos
 
@@ -50,8 +50,8 @@ Vas a crear un programa de texto corto y fácil de probar.
 
 Vas a crear un programa de texto corto y fácil de probar.
 
-!!! example "Ejemplo sencillo"
-    Puedes preguntar una edad, convertirla a número y mostrar un mensaje con if y else. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Con una nota 7 muestra `aprobado`; con 4, `debe mejorar`; con 10, `excelente`.
 
 ### Pasos
 
@@ -85,8 +85,8 @@ Vas a crear un programa de texto corto y fácil de probar.
 
 Vas a crear un programa de texto corto y fácil de probar.
 
-!!! example "Ejemplo sencillo"
-    Puedes preguntar una edad, convertirla a número y mostrar un mensaje con if y else. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    El programa elige 6; pruebas 3, 8 y 6; muestra `bajo`, `alto` y finalmente `acertaste en 3 intentos`.
 
 ### Pasos
 
@@ -120,8 +120,8 @@ Vas a crear un programa de texto corto y fácil de probar.
 
 Vas a crear un programa de texto corto y fácil de probar.
 
-!!! example "Ejemplo sencillo"
-    Puedes preguntar una edad, convertirla a número y mostrar un mensaje con if y else. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Funciones `pedir_dato()`, `calcular()` y `mostrar_resultado()`; tabla con entrada 2, 0 y -3 y su salida esperada.
 
 ### Pasos
 

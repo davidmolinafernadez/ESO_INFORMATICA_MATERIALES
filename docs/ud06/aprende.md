@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Python ejecuta instrucciones escritas con reglas precisas. Los errores de sintaxis impiden ejecutar; los errores lógicos producen un resultado equivocado.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Archivo → Nuevo; escribe print("Hola") y pulsa Ejecutar
+    2. La consola debe mostrar Hola sin texto rojo
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Programa y sintaxis» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Python ejecuta instrucciones escritas con reglas precisas. Los errores de sintax
 ### Idea clave
 
 Variables nombran valores. Texto, enteros, decimales y booleanos admiten operaciones distintas; convertir tipos permite procesar entradas del usuario.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Escribe edad = 14 y print(type(edad))
+    2. Cambia 14 por "14" y observa que cambia el tipo
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Variables y tipos» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Variables nombran valores. Texto, enteros, decimales y booleanos admiten operaci
 
 input recoge texto y print comunica resultados. Operadores aritméticos, de comparación y lógicos construyen expresiones que se prueban con ejemplos.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Usa input para pedir nombre y print para saludar
+    2. Escribe Ana y comprueba el saludo en consola
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Entrada, salida y operadores» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -45,6 +63,12 @@ input recoge texto y print comunica resultados. Operadores aritméticos, de comp
 ### Idea clave
 
 if, elif y else seleccionan caminos. La indentación define bloques y una tabla de casos ayuda a comprobar todas las ramas.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Escribe un if con nota >= 5 y un else
+    2. Prueba primero 4 y después 7
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Condicionales» y con qué evidencia demostrarías que funciona correctamente?
@@ -57,6 +81,12 @@ if, elif y else seleccionan caminos. La indentación define bloques y una tabla 
 
 for recorre secuencias y while repite mientras se cumple una condición. Toda repetición necesita progreso y una salida alcanzable.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Crea un bucle for que muestre 1, 2 y 3
+    2. Cambia el límite y predice la salida antes de ejecutar
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Bucles» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -68,6 +98,12 @@ for recorre secuencias y while repite mientras se cumple una condición. Toda re
 
 Una función agrupa una tarea, recibe parámetros y puede devolver un resultado. Reduce duplicación y facilita probar partes del programa.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Define saludar(nombre) y llámala dos veces
+    2. La misma función debe mostrar dos nombres distintos
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Funciones» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -78,6 +114,12 @@ Una función agrupa una tarea, recibe parámetros y puede devolver un resultado.
 ### Idea clave
 
 Mensajes de error, trazas y pruebas localizan fallos. Comentarios y nombres explican decisiones; no repiten literalmente cada instrucción.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Thonny
+
+    1. Provoca un error quitando un paréntesis
+    2. Lee la última línea roja, corrige y añade un comentario
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Depuración y documentación» y con qué evidencia demostrarías que funciona correctamente?

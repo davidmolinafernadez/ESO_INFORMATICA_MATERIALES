@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Una pieza visual responde a un objetivo concreto. Antes de diseñar se redacta el mensaje, se define la audiencia y se elige el formato.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Crea diseño Presentación y escribe objetivo y público antes de decorar
+    2. El título debe decir qué se comunica y a quién
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Propósito y audiencia» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Una pieza visual responde a un objetivo concreto. Antes de diseñar se redacta e
 ### Idea clave
 
 Tamaño, posición, contraste y espacio indican el orden de lectura. Las plantillas son un punto de partida y deben adaptarse al contenido.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Añade título, cifra y llamada a la acción
+    2. Cambia tamaños hasta que se lean en ese orden
 
 !!! example "Ejemplo guiado para explicar en clase"
     Creamos dos versiones de un cartel: una con muchos colores y tamaños y otra con una paleta limitada, alineación y un único foco. El grupo explica el orden de lectura de cada una.
@@ -38,6 +50,12 @@ Tamaño, posición, contraste y espacio indican el orden de lectura. Las plantil
 
 Una paleta limitada mantiene coherencia. Las tipografías deben ser legibles y cumplir funciones diferenciadas sin acumular estilos.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Elige dos colores y dos tipografías como máximo
+    2. Pulsa Presentar y comprueba contraste y lectura a distancia
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Color y tipografía» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -48,6 +66,12 @@ Una paleta limitada mantiene coherencia. Las tipografías deben ser legibles y c
 ### Idea clave
 
 Recorte, resolución y proporción afectan al resultado. Iconos, vídeo y audio se integran solo cuando aclaran el mensaje.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Sube una imagen de práctica y recórtala
+    2. Alinea sus bordes y evita que tape el texto
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Imagen y multimedia» y con qué evidencia demostrarías que funciona correctamente?
@@ -60,6 +84,12 @@ Recorte, resolución y proporción afectan al resultado. Iconos, vídeo y audio 
 
 Se conserva autor, enlace y licencia. Las imágenes de personas requieren especial cuidado y no se emplean datos reales innecesarios.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Añade una línea pequeña con autor, web, licencia y enlace
+    2. Abre el enlace para comprobarlo
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Licencias y autoría» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -70,6 +100,12 @@ Se conserva autor, enlace y licencia. Las imágenes de personas requieren especi
 ### Idea clave
 
 PDF, PNG, vídeo o enlace sirven para usos distintos. Se revisan permisos, dimensiones, reproducción y accesibilidad antes de Aules.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → Canva
+
+    1. Pulsa Compartir → Descargar → PDF
+    2. Abre el PDF y revisa primera y última página
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Exportación y colaboración» y con qué evidencia demostrarías que funciona correctamente?

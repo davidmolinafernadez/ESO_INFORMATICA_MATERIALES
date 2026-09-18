@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer que el botón A aumente un contador y que al llegar a 5 aparezca un icono. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Botón A es una entrada; el contador es un proceso; el icono de la pantalla es una salida.
 
 ### Pasos
 
@@ -50,8 +50,8 @@ Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
 Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer que el botón A aumente un contador y que al llegar a 5 aparezca un icono. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    A suma 1, B resta 1 y A+B vuelve a 0; la pantalla muestra el valor después de cada pulsación.
 
 ### Pasos
 
@@ -85,8 +85,8 @@ Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
 Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer que el botón A aumente un contador y que al llegar a 5 aparezca un icono. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Si el nivel de luz es menor que 40 aparece una luna; en caso contrario aparece un sol.
 
 ### Pasos
 
@@ -120,8 +120,8 @@ Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
 Vas a comprender cómo un dispositivo recibe datos y muestra una respuesta.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer que el botón A aumente un contador y que al llegar a 5 aparezca un icono. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Prototipo de aviso de ruido con entrada, límite, icono de salida y tabla de cuatro pruebas.
 
 ### Pasos
 

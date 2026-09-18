@@ -4,6 +4,9 @@ Estas prácticas trasladan la programación por bloques a [MakeCode Arcade](http
 
 ## AR3-1 · Nave, proyectil y asteroide
 
+!!! example "Ejemplo de resultado"
+    La nave dispara; el proyectil destruye un asteroide y suma un punto; un choque con la nave resta una vida.
+
 1. Crea un proyecto llamado `AR3_1_ApellidoNombre`.
 2. Crea una nave **Player** y muévela únicamente en vertical.
 3. Al pulsar A, crea un proyectil hacia la derecha.
@@ -15,6 +18,9 @@ Estas prácticas trasladan la programación por bloques a [MakeCode Arcade](http
 **Entrega:** enlace y captura con tres puntos.
 
 ## AR3-2 · Laberinto con tilemap
+
+!!! example "Ejemplo de resultado"
+    El jugador recoge 5 objetos y solo entonces la meta muestra la pantalla de victoria.
 
 1. Crea un proyecto nuevo y un sprite **Player**.
 2. Diseña un mapa pequeño con paredes, suelo, cinco objetos y una meta.
@@ -28,6 +34,9 @@ Estas prácticas trasladan la programación por bloques a [MakeCode Arcade](http
 
 ## AR3-3 · Una función para crear enemigos
 
+!!! example "Ejemplo de resultado"
+    La función `crearEnemigo` contiene creación, posición y velocidad; un temporizador la llama cada dos segundos.
+
 1. Abre una copia de AR3-1.
 2. Crea una función llamada `crearEnemigo`.
 3. Mueve dentro de la función los bloques que crean y desplazan el asteroide.
@@ -39,6 +48,9 @@ Estas prácticas trasladan la programación por bloques a [MakeCode Arcade](http
 **Entrega:** enlace y explicación en Aules.
 
 ## AR3-4 · Prueba y mejora
+
+!!! example "Ejemplo de resultado"
+    `Problema: conserva puntos al reiniciar | Cambio: fijar puntos a 0 | Resultado: reinicia correctamente`.
 
 1. Intercambia tu enlace con un compañero.
 2. Juega durante dos minutos sin modificar el proyecto.

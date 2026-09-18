@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a comunicar una idea con un diseño sencillo.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Análisis: `primero leo el título, después la cifra y finalmente la llamada a la acción`; se justifican tamaño y contraste.
 
 ### Pasos
 
@@ -50,8 +50,8 @@ Vas a comunicar una idea con un diseño sencillo.
 
 Vas a comunicar una idea con un diseño sencillo.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Infografía con título, una cifra grande, tres ideas de una frase, dos colores y fuente al pie.
 
 ### Pasos
 
@@ -85,8 +85,8 @@ Vas a comunicar una idea con un diseño sencillo.
 
 Vas a comunicar una idea con un diseño sencillo.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar un título grande, una cifra destacada, dos colores y la fuente al final. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Versión pantalla 1920×1080 y versión A4; mantienen texto y colores, pero cambian distribución y tamaño.
 
 ### Pasos
 
@@ -120,8 +120,8 @@ Vas a comunicar una idea con un diseño sencillo.
 
 Vas a mejorar un trabajo mediante comentarios sencillos.
 
-!!! example "Ejemplo sencillo"
-    Puedes decir qué está bien, qué no se entiende y cómo puede mejorarse. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla con `contraste`, `tamaño`, `lectura`, `autoría` y `licencia`, marcada como correcto o por mejorar.
 
 ### Pasos
 

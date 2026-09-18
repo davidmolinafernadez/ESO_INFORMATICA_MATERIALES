@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 El punto de partida se adapta a quienes cursaron o no materias del departamento. Se revisan cuentas, carpetas, correo, nube, fuentes e identidad mediante tareas breves, no mediante repetición mecánica.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. Abre un documento y realiza una tarea corta sin ayuda
+    2. Anota qué paso recuerdas y cuál necesitas repasar
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Diagnóstico y continuidad» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ El punto de partida se adapta a quienes cursaron o no materias del departamento.
 ### Idea clave
 
 Una estructura útil separa originales, trabajo, recursos y entregas. Versiones, formatos y copias permiten volver atrás y explicar el proceso.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. En el gestor activa vista de detalles y ordena por fecha
+    2. Renombra un archivo con unidad, actividad y versión
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Gestión avanzada de archivos» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Una estructura útil separa originales, trabajo, recursos y entregas. Versiones,
 
 Los estilos, comentarios, permisos e historial convierten el documento en un trabajo mantenible. El permiso mínimo reduce modificaciones accidentales.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. En Writer guarda v01 y comparte una copia para comentarios
+    2. Acepta una mejora y guarda como v02 sin borrar v01
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Documentos colaborativos» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -45,6 +63,12 @@ Los estilos, comentarios, permisos e historial convierten el documento en un tra
 ### Idea clave
 
 Una hoja de cálculo representa una situación mediante datos, fórmulas y supuestos. Referencias relativas y absolutas se eligen según qué debe cambiar al copiar.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. En Calc crea cantidad, precio e importe con =B2*C2
+    2. Copia la fórmula y observa qué referencias cambian
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Excel y modelos» y con qué evidencia demostrarías que funciona correctamente?
@@ -57,6 +81,12 @@ Una hoja de cálculo representa una situación mediante datos, fórmulas y supue
 
 SUMA, PROMEDIO, SI, CONTAR.SI y porcentajes permiten responder preguntas. Los gráficos se eligen por la relación que deben mostrar y se interpretan con límites.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. Usa =SUMA y =PROMEDIO; selecciona datos → Insertar gráfico
+    2. Comprueba dos resultados con calculadora
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Funciones y gráficos» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -67,6 +97,12 @@ SUMA, PROMEDIO, SI, CONTAR.SI y porcentajes permiten responder preguntas. Los gr
 ### Idea clave
 
 Mecanografía lúdica, búsqueda contrastada, correo gva.edu y declaración del uso de IA se practican durante todo el curso.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer o Calc
+
+    1. Abre Firefox y el correo gva.edu en pestañas separadas
+    2. Practica cinco minutos de mecanografía y guarda correctamente
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Contenido transversal» y con qué evidencia demostrarías que funciona correctamente?

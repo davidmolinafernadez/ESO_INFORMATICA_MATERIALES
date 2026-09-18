@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a descubrir qué recuerdas antes de empezar.
 
-!!! example "Ejemplo sencillo"
-    Puedes rellenar una ficha marcando «sé hacerlo», «necesito ayuda» o «todavía no». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla de cinco conceptos con `lo recuerdo`, `necesito repaso` y un ejemplo correcto para cada uno.
 
 ### Pasos
 
@@ -48,8 +48,8 @@ Vas a descubrir qué recuerdas antes de empezar.
 
 Vas a practicar una destreza de la unidad.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer una versión sencilla de «mejorar instrucciones y documentar cambios». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Versión 1: petición sin contexto. Versión 2: añade objetivo, destinatario, límites y formato; tabla con diferencias.
 
 ### Pasos
 
@@ -82,8 +82,8 @@ Vas a practicar una destreza de la unidad.
 
 Vas a diseñar una automatización que siempre pueda revisar una persona.
 
-!!! example "Ejemplo sencillo"
-    Puedes dibujar: petición, comprobar datos, preparar borrador, revisión humana y respuesta. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Flujo: petición → comprobar datos → preparar borrador → revisión humana → respuesta; si faltan datos, pregunta.
 
 ### Pasos
 
@@ -116,8 +116,8 @@ Vas a diseñar una automatización que siempre pueda revisar una persona.
 
 Vas a diseñar una automatización que siempre pueda revisar una persona.
 
-!!! example "Ejemplo sencillo"
-    Puedes dibujar: petición, comprobar datos, preparar borrador, revisión humana y respuesta. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Rúbrica con cuatro pruebas: sigue instrucciones, no inventa fuentes, reconoce límites y protege datos.
 
 ### Pasos
 

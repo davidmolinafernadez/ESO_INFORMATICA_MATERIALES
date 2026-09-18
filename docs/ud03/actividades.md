@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Personaje que se mueve, recoge un objeto y aumenta la puntuación; todavía no necesita menú ni varios niveles.
 
 ### Pasos
 
@@ -50,8 +50,8 @@ Vas a crear un programa por bloques pequeño y comprobable.
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tres vidas al empezar, +1 punto al recoger y reinicio completo al perder todas las vidas.
 
 ### Pasos
 
@@ -85,8 +85,8 @@ Vas a crear un programa por bloques pequeño y comprobable.
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Mensaje `nuevo_nivel`, clones de un enemigo y bloque propio `crear enemigo` usado desde dos lugares.
 
 ### Pasos
 
@@ -120,8 +120,8 @@ Vas a crear un programa por bloques pequeño y comprobable.
 
 Vas a encontrar y corregir errores de forma ordenada.
 
-!!! example "Ejemplo sencillo"
-    Puedes anotar: esperaba 1 punto, obtuvo 2, había un bloque repetido y lo eliminé. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Registro: `prueba 2 | al reiniciar conserva puntos | corregido al poner puntos a 0 | funciona`.
 
 ### Pasos
 
