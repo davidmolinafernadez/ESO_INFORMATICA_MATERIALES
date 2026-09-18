@@ -35,6 +35,7 @@ nav:
       - Portada: ud03/index.md
       - Aprende: ud03/aprende.md
       - Actividades: ud03/actividades.md
+      - MakeCode Arcade guiado: ud03/practicas-guiadas.md
       - Proyecto: ud03/proyecto.md
       - Entrega: ud03/entrega.md
   - UD04 · Micro:bit y sistemas físicos:
@@ -47,6 +48,7 @@ nav:
       - Portada: ud05/index.md
       - Aprende: ud05/aprende.md
       - Actividades: ud05/actividades.md
+      - Prácticas guiadas: ud05/practicas-guiadas.md
       - Proyecto: ud05/proyecto.md
       - Entrega: ud05/entrega.md
   - UD06 · Introducción a Python:
