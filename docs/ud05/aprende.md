@@ -13,18 +13,6 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Modelos, datos, sesgos, privacidad y verificación recuperan lo aprendido en 2.º. El diagnóstico inicial determina cuánto tiempo necesita el grupo.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «repaso de fundamentos» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    El profesor presenta un caso cotidiano relacionado con «Repaso de fundamentos». El grupo predice el resultado, observa la demostración y compara la predicción con la evidencia obtenida.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Repaso de fundamentos» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -35,18 +23,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 Una petición útil concreta objetivo, información disponible, límites y formato. Se evita entregar datos personales y se comprueba cada resultado.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «instrucciones y contexto» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    El profesor presenta un caso cotidiano relacionado con «Instrucciones y contexto». El grupo predice el resultado, observa la demostración y compara la predicción con la evidencia obtenida.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Instrucciones y contexto» y con qué evidencia demostrarías que funciona correctamente?
@@ -59,18 +35,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 Un agente combina modelo, instrucciones, herramientas y memoria o estado para realizar pasos. Su autonomía exige límites, permisos y supervisión humana.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «agentes» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Pedimos a una IA una explicación sin contexto y repetimos indicando edad, objetivo, límites y formato. Comparamos las respuestas, verificamos una afirmación y registramos qué parte sigue dependiendo de una decisión humana.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Agentes» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -81,18 +45,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 Un flujo conecta disparador, datos, transformación y salida. Automatizar una tarea incorrecta multiplica el error, por lo que se define una comprobación y una forma de detenerla.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «automatización» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Pedimos a una IA una explicación sin contexto y repetimos indicando edad, objetivo, límites y formato. Comparamos las respuestas, verificamos una afirmación y registramos qué parte sigue dependiendo de una decisión humana.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Automatización» y con qué evidencia demostrarías que funciona correctamente?
@@ -105,18 +57,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 Se usan casos de prueba, criterios y fuentes para comparar salidas. Fiabilidad significa comportamiento suficiente para el uso previsto, no ausencia total de errores.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «evaluación de resultados» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    El profesor presenta un caso cotidiano relacionado con «Evaluación de resultados». El grupo predice el resultado, observa la demostración y compara la predicción con la evidencia obtenida.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Evaluación de resultados» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -127,18 +67,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 Se declara la ayuda de IA, se atribuyen fuentes y se mantiene responsabilidad humana. Se estudian sesgo, impacto laboral, consumo de recursos y acceso desigual.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «ética y transparencia» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Pedimos a una IA una explicación sin contexto y repetimos indicando edad, objetivo, límites y formato. Comparamos las respuestas, verificamos una afirmación y registramos qué parte sigue dependiendo de una decisión humana.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Ética y transparencia» y con qué evidencia demostrarías que funciona correctamente?
